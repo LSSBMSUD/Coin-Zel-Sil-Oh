@@ -1,2 +1,4 @@
-# BullshitTest-Generator-GO
-Bullshit test generator(심리테스트같은거.. 막 퍼나르는거.. 등 개소리 테스트), created with Golang
+# Coin-Zel-Sil-Oh
+코인이 제일 싫어 (코젤싫), created with Golang
+
+시총 상위권에 있는 코인의 급등락을 알려주는 텔레그램 봇
